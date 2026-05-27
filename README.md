@@ -41,6 +41,14 @@ Schedule Trigger → HTTP Request → Split Out → Limit → JavaScript → Gma
 5. Import workflow JSON
 6. Publish workflow
 
+   ## Workflow Screenshot
+
+![Workflow](Screenshot%202026-05-27%20132127.png)
+
+## Gmail Output
+
+![Gmail Output](Screenshot%202026-05-27%20132557.png)
+
 ## Author
 
 Jaswanth
